@@ -1,0 +1,115 @@
+09AUG21 Benchmarks
+
+RX6900XT Benchmarks
+
+RX 6900 XT
+Release: v0.28.0-rc1
+Weights: 751390
+Backend: DX12
+NPS: 79306
+
+RX 6900 XT
+Release: v0.28.0-rc1
+Weights: 703810
+Backend: DX12
+NPS: 169484
+
+RX 6900 XT
+Release: v0.28.0-rc1
+Weights: J94-100
+Backend: DX12
+NPS: 10110
+
+RX 6900 XT
+Release: v0.27.0
+Weights: 751390
+Backend: DX12
+NPS: 57969
+
+RX 6900 XT
+Release: v0.27.0
+Weights: 703810
+Backend: DX12
+NPS: 112295
+
+RX 6900 XT
+Release: v0.27.0
+Weights: J94-100
+Backend: DX12
+NPS: 9116
+
+RTX2080FE CUDA Benchmarks
+
+RTX 2080 FE
+Release: v0.28.0-rc1
+Weights: 751390
+Backend: cuda-fp16
+NPS: 92191
+
+RTX 2080 FE
+Release: v0.28.0-rc1
+Weights: 703810
+Backend: cuda-fp16
+NPS: 179065
+
+RTX 2080 FE
+Release: v0.28.0-rc1
+Weights: J94-100
+Backend: cuda-fp16
+NPS: 16188
+
+RTX 2080 FE
+Release: v0.27.0
+Weights: 751390
+Backend: cuda-fp16
+NPS: 75892
+
+RTX 2080 FE
+Release: v0.27.0
+Weights: 703810
+Backend: cuda-fp16
+NPS: 128584
+
+RTX 2080 FE
+Release: v0.27.0
+Weights: J94-100
+Backend: cuda-fp16
+NPS: 15849
+
+RTX2080FE DX12 Benchmarks
+
+RTX 2080 FE
+Release: v0.28.0-rc1
+Weights: 751390
+Backend: DX12
+NPS: 62122
+
+RTX 2080 FE
+Release: v0.28.0-rc1
+Weights: 703810
+Backend: DX12
+NPS: 119054
+
+RTX 2080 FE
+Release: v0.28.0-rc1
+Weights: J94-100
+Backend: DX12
+NPS: 12867
+
+RTX 2080 FE
+Release: v0.27.0
+Weights: 751390
+Backend: DX12
+NPS: 51194
+
+RTX 2080 FE
+Release: v0.27.0
+Weights: 703810
+Backend: DX12
+NPS: 88011
+
+RTX 2080 FE
+Release: v0.27.0
+Weights: J94-100
+Backend: DX12
+NPS: 11553
